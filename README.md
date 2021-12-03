@@ -26,9 +26,9 @@ Ricardo Hernández |Full Stack Developer | Front-end developer
 ## :pushpin: My proyects
 <h3>Mravko</h3>
 <p>
-  <a><img src="https://github.com/ricardocch/ricardocch/blob/main/img/Mravko1.png"></a>
-  <a><img src="https://github.com/ricardocch/ricardocch/blob/main/img/Mravko2.png"></a>
-  <a><img src="https://github.com/ricardocch/ricardocch/blob/main/img/Mravko3.png"></a>
+  <a><img width="25%" src="https://github.com/ricardocch/ricardocch/blob/main/img/Mravko1.PNG"></a>
+  <a><img width="25%" src="https://github.com/ricardocch/ricardocch/blob/main/img/Mravko2.PNG"></a>
+  <a><img width="25%" src="https://github.com/ricardocch/ricardocch/blob/main/img/Mravko3.PNG"></a>
 </p>
 
 
@@ -40,8 +40,8 @@ Ricardo Hernández |Full Stack Developer | Front-end developer
 
 <h3>Calculadora de propinas</h3>
 <p>
-  <a><img src="https://github.com/ricardocch/ricardocch/blob/main/img/Mravko1.png"></a>
-  <a><img src="https://github.com/ricardocch/ricardocch/blob/main/img/Mravko1.png"></a>
+  <a><img src="https://github.com/ricardocch/ricardocch/blob/main/img/Tip1.png"></a>
+  <a><img src="https://github.com/ricardocch/ricardocch/blob/main/img/Tip2.png"></a>
 </p> 
 &nbsp;
 
