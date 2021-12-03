@@ -47,7 +47,7 @@ Ricardo Hernández |Full Stack Developer | Front-end developer
 
 ## :paperclip: Contacto:
 <span >
-<a href="https://www.linkedin.com/in/ricardocch" ><img width="5%" src="https://github.com/ricardocch/ricardocch/blob/main/img/linkedin-icon.png"> &nbsp;
+<a href="https://www.linkedin.com/in/ricardocch" ><img width="50px" src="https://github.com/ricardocch/ricardocch/blob/main/img/linkedin-icon.png"> &nbsp;
 <a href="mailto:ricardohdz2408@gmail.com" ><img width="5%" src="http://www.rw-designer.com/icon-view/14099.png">
 </span>
 
