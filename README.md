@@ -1,4 +1,4 @@
-(https://github.com/ricardocch/ricardocch/blob/main/img/banner.jpg)
+<img src="https://github.com/ricardocch/ricardocch/blob/main/img/banner.jpg"/>
 
 <h2 align="center">
 Ricardo Hernández |Full Stack Developer | Front-end developer 
@@ -26,9 +26,9 @@ Ricardo Hernández |Full Stack Developer | Front-end developer
 ## :pushpin: My proyects
 <h3>Mravko</h3>
 <p>
-  <a><img src="https://github.com/ricardocch/ricardocch/blob/main/images/Mravko1.png"></a>
-  <a><img src="https://github.com/ricardocch/ricardocch/blob/main/images/Mravko2.png"></a>
-  <a><img src="https://github.com/ricardocch/ricardocch/blob/main/images/Mravko3.png"></a>
+  <a><img src="https://github.com/ricardocch/ricardocch/blob/main/img/Mravko1.png"></a>
+  <a><img src="https://github.com/ricardocch/ricardocch/blob/main/img/Mravko2.png"></a>
+  <a><img src="https://github.com/ricardocch/ricardocch/blob/main/img/Mravko3.png"></a>
 </p>
 
 
@@ -40,8 +40,8 @@ Ricardo Hernández |Full Stack Developer | Front-end developer
 
 <h3>Calculadora de propinas</h3>
 <p>
-  <a><img src="https://github.com/ricardocch/ricardocch/blob/main/images/Mravko1.png"></a>
-  <a><img src="https://github.com/ricardocch/ricardocch/blob/main/images/Mravko1.png"></a>
+  <a><img src="https://github.com/ricardocch/ricardocch/blob/main/img/Mravko1.png"></a>
+  <a><img src="https://github.com/ricardocch/ricardocch/blob/main/img/Mravko1.png"></a>
 </p> 
 &nbsp;
 
